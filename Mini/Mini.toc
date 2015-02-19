@@ -14,3 +14,4 @@ SaySapped.lua
 ZoneAchievementTracker.lua
 QuestPlates.lua
 AutoReagentBank.lua
+TalentActionBars.lua
