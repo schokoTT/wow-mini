@@ -1,0 +1,16 @@
+## Interface: 50400
+## Title: Mini
+## Version: 2.0
+## Author: other
+## Notes: mini addons
+## DefaultState: Enabled
+RETabBinder.xml
+eAlign.lua
+AlreadyKnown.lua
+AuctionPlus.lua
+CError.lua
+Sonic_Reputation.lua
+SaySapped.lua
+ZoneAchievementTracker.lua
+QuestPlates.lua
+AutoReagentBank.lua
